@@ -1,1 +1,4 @@
-[{ "text": "GoLang学习笔记", "link": "/GoLang/001-environment" }]
+[
+  { "text": "首页", "link": "/" },
+  { "text": "GoLang学习笔记", "link": "/GoLang/001-environment" }
+]

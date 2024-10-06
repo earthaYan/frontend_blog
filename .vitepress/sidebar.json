@@ -2,5 +2,9 @@
   {
     "text": "GoLang学习笔记",
     "items": [{ "text": "环境搭建", "link": "/GoLang/001-environment" }]
+  },
+  {
+    "text": "Linux学习笔记",
+    "items": [{ "text": "常用命令", "link": "/Linux/001-command" }]
   }
 ]

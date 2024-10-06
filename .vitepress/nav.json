@@ -1,4 +1,8 @@
 [
   { "text": "首页", "link": "/" },
-  { "text": "GoLang学习笔记", "link": "/GoLang/001-environment" }
+  { "text": "GoLang学习笔记", "link": "/GoLang/001-environment" },
+  {
+    "text": "Linux学习笔记",
+    "link": "/Linux/001-command"
+  }
 ]

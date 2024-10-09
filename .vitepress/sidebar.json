@@ -1,10 +1,29 @@
 [
   {
     "text": "GoLang学习笔记",
-    "items": [{ "text": "环境搭建", "link": "/GoLang/001-environment" }]
+    "items": [
+      { "text": "开发环境搭建", "link": "/GoLang/001-environment" },
+      {
+        "text": "GO的常见使用场景",
+        "link": "/GoLang/002-chang_jin"
+      }
+    ]
   },
   {
     "text": "Linux学习笔记",
     "items": [{ "text": "常用命令", "link": "/Linux/001-command" }]
+  },
+  {
+    "text": "Docker学习笔记",
+    "items": [
+      {
+        "text": "安装",
+        "link": "/Docker/001-install"
+      },
+      {
+        "text": "搭建mysql数据库",
+        "link": "/Docker/002-use"
+      }
+    ]
   }
 ]

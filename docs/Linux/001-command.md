@@ -41,11 +41,61 @@ yum clean all && yum makecache  # 清理原来的yum并重新创建缓存
 
 ## 查看 Linux 架构信息
 
-查看系统的核心信息：uname -a/-m
+查看系统的核心信息：`uname -a/-m`
 
-> Linux hcss-ecs-f13a 4.18.0-348.7.1.el8_5.x86_64 #1 SMP Wed Dec 22 13:25:12 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+Linux hcss-ecs-f13a 4.18.0-348.7.1.el8_5.x86_64 #1 SMP Wed Dec 22 13:25:12 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
 
 单项查看：lscpu
 ![架构信息](./imgs/info.png)
+
+## 查看版本
+
+涉及变量：$releasever
+
+查看系统版本：cat /etc/redhat-release
+
+使用：自动根据系统的版本号动态替换该变量
+
+## curl 下载文件
+
+```
+curl 下载地址
+
+-X, --request <command>
+  指定要使用的 HTTP 请求方法（如 GET、POST、PUT 等）。默认是 GET。
+
+-d, --data <data>
+  发送数据，通常与 POST 请求一起使用。可以是表单数据或 JSON 数据。
+
+-H, --header <header>
+  自定义 HTTP 请求头。可以用来添加认证信息、内容类型等。
+
+-o, --output <file>
+  将输出写入指定文件，而不是输出到标准输出。
+
+-L, --location
+  跟随服务器的重定向（HTTP 301、302 等）。这很有用，因为某些下载链接可能会重定向到另一个 URL。
+
+-S, --show-error
+  在出现错误时显示错误信息。这对调试很有帮助。
+
+-v, --verbose
+  显示详细的请求和响应信息，包括头信息。这有助于调试和查看请求过程。
+
+-k, --insecure
+  忽略 SSL 证书错误。使用此选项时，curl 将不会验证 HTTPS 连接的证书（不推荐在生产环境中使用）。
+
+-u, --user <user:password>
+  使用基本认证（Basic Authentication）。格式为 username:password。
+
+-I, --head
+  只请求 HTTP 响应头，而不请求具体的内容。
+
+-s, --silent
+  静默模式，不输出进度信息和错误信息，通常与 -S 一起使用以仅显示错误信息。
+
+--compressed
+  向服务器请求压缩的响应（如 gzip），以减少传输数据的大小。
+```
 
 ## TODO

@@ -3,9 +3,11 @@
         "automake",
         "CPAN",
         "devel",
+        "gorm",
         "libcurl",
         "lrzsz",
         "makecache",
+        "releasever",
         "vitepress"
     ]
 }

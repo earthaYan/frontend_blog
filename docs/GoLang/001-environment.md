@@ -21,8 +21,6 @@ Go 应用的安全包括 2 方面：
 
 ### 功能所需资源
 
-![IAM 系统的功能示意图](./imgs/function.webp)
-
 1. 用户注册并登录到 IAM 系统，以用户名和密码作为唯一的身份标识来访问 IAM 系统，完成认证。
 2. 因为访问 IAM 的资源授权接口是通过密钥的方式进行认证，所以用户需要在 IAM 中创建属于自己的密钥资源。
 3. 因为 IAM 通过授权策略完成授权，所以用户需要在 IAM 中创建授权策略。
@@ -36,8 +34,6 @@ Go 应用的安全包括 2 方面：
 ```
 
 ### IAM 的系统架构
-
-![IAM系统的完整架构](./imgs//system.webp)
 
 五大组件
 
@@ -171,8 +167,6 @@ export GOPROXY=https://goproxy.cn,direct # 安装 Go 模块时，代理服务器
 export GOPRIVATE=
 export GOSUMDB=off # 关闭校验 Go 依赖包的哈希值
 ```
-
-![各个变量含义](./imgs//goennv.webp)
 
 3. 初始化工作区
 

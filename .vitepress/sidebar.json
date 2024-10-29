@@ -10,6 +10,15 @@
     ]
   },
   {
+    "text": "ES学习笔记",
+    "items": [
+      {
+        "text": "Let和Const",
+        "link": "/ES/001-variable"
+      }
+    ]
+  },
+  {
     "text": "Linux学习笔记",
     "items": [{ "text": "常用命令", "link": "/Linux/001-command" }]
   },

@@ -19,6 +19,10 @@
       {
         "text": "字符串",
         "link": "/ES/002-string"
+      },
+      {
+        "text": "数组",
+        "link": "/ES/003-array"
       }
     ]
   },

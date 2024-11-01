@@ -23,6 +23,10 @@
       {
         "text": "数组",
         "link": "/ES/003-array"
+      },
+      {
+        "text": "对象的扩展",
+        "link": "/ES/004-object"
       }
     ]
   },

@@ -216,4 +216,4 @@ for (let entry of arr.entries()) {
 | toString    |
 | valueOf     |
 
-> slice 方法钟，截取范围为`[start,end)`,
+> slice 方法中，截取范围为`[start,end)`,

@@ -27,6 +27,18 @@
       {
         "text": "对象的扩展",
         "link": "/ES/004-object"
+      },
+      {
+        "text": "函数的扩展",
+        "link": "/ES/005-function"
+      },
+      {
+        "text": "解构赋值",
+        "link": "/ES/006-destructuring"
+      },
+      {
+        "text": "运算符",
+        "link": "/ES/007-operator"
       }
     ]
   },

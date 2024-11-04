@@ -39,6 +39,10 @@
       {
         "text": "运算符",
         "link": "/ES/007-operator"
+      },
+      {
+        "text": "数据类型",
+        "link": "/ES/008-type"
       }
     ]
   },

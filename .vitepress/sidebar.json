@@ -59,6 +59,10 @@
       {
         "text": "异步编程",
         "link": "/ES/012-async"
+      },
+      {
+        "text": "模块化",
+        "link": "/ES/013-module"
       }
     ]
   },

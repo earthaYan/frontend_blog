@@ -51,6 +51,14 @@
       {
         "text": "类Class",
         "link": "/ES/010-class"
+      },
+      {
+        "text": "Proxy & Reflect",
+        "link": "/ES/011-reflect"
+      },
+      {
+        "text": "异步编程",
+        "link": "/ES/012-async"
       }
     ]
   },

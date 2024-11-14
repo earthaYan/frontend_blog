@@ -1,7 +1,8 @@
 [
   { "text": "首页", "link": "/" },
-  { "text": "GoLang学习笔记", "link": "/GoLang/001-environment" },
+  { "text": "H5C3", "link": "/H5C3/001-H5" },
   { "text": "ES学习笔记", "link": "/ES/001-variable" },
+  { "text": "GoLang学习笔记", "link": "/GoLang/001-environment" },
   {
     "text": "Linux学习笔记",
     "link": "/Linux/001-command"

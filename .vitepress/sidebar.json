@@ -3,8 +3,12 @@
     "text": "H5C3基础",
     "items": [
       {
-        "text": "h5基础",
-        "link": "/H5C3/001-H5"
+        "text": "表单",
+        "link": "/H5C3/001-h5"
+      },
+      {
+        "text": "本地存储/离线web应用",
+        "link": "/H5C3/002-h5"
       }
     ]
   },
@@ -62,6 +66,18 @@
       {
         "text": "模块化",
         "link": "/ES/013-module"
+      },
+      {
+        "text": "JS库开发(一)",
+        "link": "/ES/014-componentLibrary"
+      },
+      {
+        "text": "JS库开发(二)",
+        "link": "/ES/015-componentLibrary2"
+      },
+      {
+        "text": "JS库开发(三)",
+        "link": "/ES/016-componentLibrary3"
       }
     ]
   },

@@ -6,7 +6,7 @@ outline: deep
 
 ## 数据类型
 
-- 基本数据类型：number,string,boolean,undefined,null,Symbol
+- 基本数据类型：number,string,boolean,undefined,null,Symbol,bigint(ES10)
 - 引用数据类型：Object
 
 ### ES6 新增基本数据类型 Symbol

@@ -82,6 +82,10 @@
     ]
   },
   {
+    "text": "Vue3",
+    "items": [{ "text": "vue01", "link": "/vue/001-vue" }]
+  },
+  {
     "text": "Linux学习笔记",
     "items": [{ "text": "常用命令", "link": "/Linux/001-command" }]
   },

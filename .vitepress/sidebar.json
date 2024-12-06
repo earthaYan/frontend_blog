@@ -116,8 +116,24 @@
     "text": "面试复盘",
     "items": [
       {
-        "text": "公司1",
-        "link": "/Interview/001"
+        "text": "CSS",
+        "link": "/Interview/001-css"
+      },
+      {
+        "text": "JS",
+        "link": "/Interview/001-js"
+      },
+      {
+        "text": "TS",
+        "link": "/Interview/001-ts"
+      },
+      {
+        "text": "mvvm框架相关",
+        "link": "/Interview/001-mvvm"
+      },
+      {
+        "text": "项目相关",
+        "link": "/Interview/001-project"
       }
     ]
   }

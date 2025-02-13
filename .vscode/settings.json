@@ -3,11 +3,14 @@
         "automake",
         "CPAN",
         "devel",
+        "doraemon",
         "gorm",
         "libcurl",
         "lrzsz",
         "makecache",
+        "MVVM",
         "releasever",
+        "uniapp",
         "vitepress"
     ]
 }

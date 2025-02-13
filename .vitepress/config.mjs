@@ -3,10 +3,11 @@ import sidebar from "./sidebar.json";
 import nav from "./nav.json";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "learning blog",
+  title: "frontend  blog",
   description: "a blog powered by vitePress",
   srcDir: "./docs",
-  base: "/learning_blog",
+  base: "/frontend_blog",
+  head: [["link", { rel: "icon", href: "/frontend_blog/favicon.ico" }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav,
@@ -14,5 +15,6 @@ export default defineConfig({
     socialLinks: [
       { icon: "github", link: "https://github.com/vuejs/vitepress" },
     ],
+    logo: "/doraemon.png",
   },
 });

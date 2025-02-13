@@ -1,14 +1,26 @@
 [
-  { "text": "首页", "link": "/" },
-  { "text": "H5C3", "link": "/H5C3/001-H5" },
-  { "text": "ES学习笔记", "link": "/ES/001-variable" },
-  { "text": "GoLang学习笔记", "link": "/GoLang/001-environment" },
   {
-    "text": "Linux学习笔记",
-    "link": "/Linux/001-command"
+    "text": "js知识",
+    "link": "/javascript"
   },
   {
-    "text": "Docker",
-    "link": "/Docker/001-install"
+    "text": "css知识",
+    "link": "/css"
+  },
+  {
+    "text": "MVVM框架",
+    "items": [
+      { "text": "Vue2", "link": "/vue2" },
+      { "text": "Vue3", "link": "/vue3" },
+      { "text": "React", "link": "/react" }
+    ]
+  },
+  {
+    "text": "小程序开发",
+    "link": "/uniapp"
+  },
+  {
+    "text": "项目",
+    "link": "/projects"
   }
 ]

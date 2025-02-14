@@ -17,4 +17,9 @@ export default defineConfig({
     ],
     logo: "/doraemon.png",
   },
+  markdown: {
+    image: {
+      lazyLoading: true,
+    },
+  },
 });

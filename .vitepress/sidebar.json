@@ -5,6 +5,18 @@
       {
         "text": "目录页",
         "link": "/javascript/index"
+      },
+      {
+        "text": "变量类型",
+        "link": "/javascript/001"
+      },
+      {
+        "text": "原型和原型链",
+        "link": "/javascript/002"
+      },
+      {
+        "text": "作用域和闭包",
+        "link": "/javascript/003"
       }
     ]
   }

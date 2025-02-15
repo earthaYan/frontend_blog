@@ -10,9 +10,11 @@
         "lrzsz",
         "makecache",
         "microtask",
+        "mpvue",
         "MVVM",
         "releasever",
         "uniapp",
-        "vitepress"
+        "vitepress",
+        "weex"
     ]
 }

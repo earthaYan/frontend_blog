@@ -27,5 +27,18 @@
         "link": "/javascript/005"
       }
     ]
+  },
+  {
+    "text": "小程序开发",
+    "items": [
+      {
+        "text": "目录页",
+        "link": "/uniapp/index"
+      },
+      {
+        "text": "基础常识",
+        "link": "/uniapp/001"
+      }
+    ]
   }
 ]

@@ -17,6 +17,14 @@
       {
         "text": "作用域和闭包",
         "link": "/javascript/003"
+      },
+      {
+        "text": "异步",
+        "link": "/javascript/004"
+      },
+      {
+        "text": "异步2",
+        "link": "/javascript/005"
       }
     ]
   }

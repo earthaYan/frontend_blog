@@ -38,6 +38,23 @@
       {
         "text": "基础常识",
         "link": "/uniapp/001"
+      },
+      {
+        "text": "常用内置组件",
+        "link": "/uniapp/002"
+      }
+    ]
+  },
+  {
+    "text": "Vue3",
+    "items": [
+      {
+        "text": "目录页",
+        "link": "/vue3/index"
+      },
+      {
+        "text": "数据与方法",
+        "link": "/vue3/001"
       }
     ]
   }

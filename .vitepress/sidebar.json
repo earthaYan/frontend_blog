@@ -82,5 +82,18 @@
         "link": "/interview/003"
       }
     ]
+  },
+  {
+    "text": "坑",
+    "items": [
+      {
+        "text": "坑目录",
+        "link": "/bug/index"
+      },
+      {
+        "text": "vitepress的actions报错",
+        "link": "/bug/001"
+      }
+    ]
   }
 ]

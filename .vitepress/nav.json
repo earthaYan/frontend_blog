@@ -26,5 +26,9 @@
   {
     "text": "面试复盘",
     "link": "/interview"
+  },
+  {
+    "text": "坑",
+    "link": "/bug"
   }
 ]

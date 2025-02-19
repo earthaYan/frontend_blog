@@ -22,5 +22,9 @@
   {
     "text": "项目",
     "link": "/projects"
+  },
+  {
+    "text": "面试复盘",
+    "link": "/interview"
   }
 ]

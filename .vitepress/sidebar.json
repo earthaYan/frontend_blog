@@ -25,6 +25,10 @@
       {
         "text": "异步2",
         "link": "/javascript/005"
+      },
+      {
+        "text": "JS web api 之 DOM",
+        "link": "/javascript/006"
       }
     ]
   },
@@ -55,6 +59,27 @@
       {
         "text": "数据与方法",
         "link": "/vue3/001"
+      }
+    ]
+  },
+  {
+    "text": "面试复盘",
+    "items": [
+      {
+        "text": "目录页",
+        "link": "/interview/index"
+      },
+      {
+        "text": "简历梳理-专业技能",
+        "link": "/interview/001"
+      },
+      {
+        "text": "简历梳理-DMP项目",
+        "link": "/interview/002"
+      },
+      {
+        "text": "简历梳理-Dtle项目",
+        "link": "/interview/003"
       }
     ]
   }

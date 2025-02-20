@@ -10,6 +10,7 @@
         "DTLE",
         "fullfilled",
         "gorm",
+        "lazyload",
         "libcurl",
         "lrzsz",
         "makecache",

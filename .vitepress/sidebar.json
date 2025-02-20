@@ -63,6 +63,15 @@
     ]
   },
   {
+    "text": "react",
+    "items": [
+      {
+        "text": "目录页",
+        "link": "/react/index"
+      }
+    ]
+  },
+  {
     "text": "面试复盘",
     "items": [
       {
@@ -80,6 +89,10 @@
       {
         "text": "简历梳理-Dtle项目",
         "link": "/interview/003"
+      },
+      {
+        "text": "声网",
+        "link": "/interview/005"
       }
     ]
   },

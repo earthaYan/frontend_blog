@@ -68,6 +68,22 @@
       {
         "text": "目录页",
         "link": "/react/index"
+      },
+      {
+        "text": "React 基本使用之 class 组件",
+        "link": "/react/001"
+      },
+      {
+        "text": "React 高级特性之 class 组件",
+        "link": "/react/002"
+      },
+      {
+        "text": "Redux使用",
+        "link": "/react/003"
+      },
+      {
+        "text": "React router使用",
+        "link": "/react/004"
       }
     ]
   },

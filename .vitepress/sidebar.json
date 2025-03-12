@@ -88,6 +88,10 @@
       {
         "text": "React Hooks",
         "link": "/react/005"
+      },
+      {
+        "text": "组件逻辑复用和hooks注意点",
+        "link": "/react/006"
       }
     ]
   },
@@ -135,7 +139,15 @@
         "text": "汇川",
         "link": "/interview/006"
       },
-      { "text": "西门子", "link": "/interview/007" }
+      { "text": "西门子", "link": "/interview/007" },
+      {
+        "text": "国泰君安",
+        "link": "/interview/008"
+      },
+      {
+        "text": "自我介绍",
+        "link": "/interview/009"
+      }
     ]
   },
 

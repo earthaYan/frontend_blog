@@ -92,6 +92,23 @@
     ]
   },
   {
+    "text": "http知识",
+    "items": [
+      {
+        "text": "目录页",
+        "link": "/http/index"
+      },
+      {
+        "text": "基础知识点",
+        "link": "/http/001"
+      },
+      {
+        "text": "http知识",
+        "link": "/http/002"
+      }
+    ]
+  },
+  {
     "text": "面试复盘",
     "items": [
       {
@@ -121,6 +138,7 @@
       { "text": "西门子", "link": "/interview/007" }
     ]
   },
+
   {
     "text": "坑",
     "items": [

@@ -92,6 +92,10 @@
       {
         "text": "组件逻辑复用和hooks注意点",
         "link": "/react/006"
+      },
+      {
+        "text": "react原理",
+        "link": "/react/007"
       }
     ]
   },

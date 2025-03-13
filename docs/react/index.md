@@ -8,3 +8,4 @@ react
 - [Redux 使用](/react/003)
 - [React router 使用](/react/004)
 - [React hooks](/react/005)
+- [组件逻辑复用和 hooks 注意点 ](/react/006)

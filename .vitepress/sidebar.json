@@ -29,6 +29,10 @@
       {
         "text": "JS web api 之 DOM",
         "link": "/javascript/006"
+      },
+      {
+        "text": "常见设计模式",
+        "link": "/javascript/007"
       }
     ]
   },

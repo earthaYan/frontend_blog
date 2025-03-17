@@ -117,6 +117,14 @@
       {
         "text": "http知识",
         "link": "/http/002"
+      },
+      {
+        "text": "webpack",
+        "link": "/http/003"
+      },
+      {
+        "text": "vite",
+        "link": "/http/004"
       }
     ]
   },

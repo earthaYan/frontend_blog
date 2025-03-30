@@ -206,6 +206,14 @@
       {
         "text": "vitepress的actions报错",
         "link": "/bug/001"
+      },
+      {
+        "text": "mac初体验",
+        "link": "/bug/002"
+      },
+      {
+        "text": "vscode 踩坑",
+        "link": "/bug/003"
       }
     ]
   }

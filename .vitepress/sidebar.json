@@ -1,5 +1,22 @@
 [
   {
+    "text":"工作复盘",
+    "items":[
+      {
+        "text":"captain平台发布流程",
+        "link":"/work/001"
+      },
+      {
+        "text":"前端数据模拟mock",
+        "link":"/work/002"
+      },
+      {
+        "text":"资金链路查询功能代码梳理",
+        "link":"/work/003"
+      }
+    ]
+  },
+  {
     "text": "css",
     "items": [
       {

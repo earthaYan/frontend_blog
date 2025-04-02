@@ -1,5 +1,9 @@
 [
   {
+    "text":"工作复盘",
+    "link":"/work"
+  },
+  {
     "text": "js知识",
     "link": "/javascript"
   },
